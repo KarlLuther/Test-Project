@@ -6,5 +6,6 @@ Pink
 Black
 Red
 Yellow
+Blue(perfect)
 
 These are the colers of my rainbow.
