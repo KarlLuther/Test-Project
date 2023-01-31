@@ -5,6 +5,8 @@ Orange
 Pink
 Black
 Unicorn
+Lox
+Kto
 Red
 Yellow
 Blue(perfect)
